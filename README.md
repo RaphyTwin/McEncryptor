@@ -35,7 +35,7 @@ Coming soon...
 
 ## Credits
 
-McEncryptor for MacOS doesn't exist without McEncryptor.
+McEncryptor for MacOS doesn't exist without [McTools](https://silica.codes/BedrockReverse/McTools).
 
 ## License
 
