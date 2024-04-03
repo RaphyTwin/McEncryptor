@@ -23,7 +23,7 @@ McEncryptor for MacOS is a port to MacOS so everyone can port Skin Packs now.
 
 ## Motivation
 
-I don't a Windows Machine at home so I want to be able to port Skin Packs too.
+I don't have a Windows Machine at home so I want to be able to port Skin Packs too.
 
 ## Installation
 
